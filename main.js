@@ -8,8 +8,6 @@ import {Pane} from 'tweakpane';
 // creating a scene
 const scene = new THREE.Scene()
 
-//initializing tweakpane
-const pane = new Pane();
 
 //initialize textureLoader
 const cubeTextureLoader = new THREE.CubeTextureLoader()
